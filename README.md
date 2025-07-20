@@ -1,7 +1,7 @@
 AlmaBetter-Flashcard-Generator
 This is a frontend Capstone project given by AlmaBetter, which is a Flashcard Generator.
 Deployment
-Click Here to see my flashcard generator website.
+
 Run Locally
 Install dependencies
   npm install
