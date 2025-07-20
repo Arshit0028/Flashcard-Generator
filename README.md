@@ -10,7 +10,7 @@ Start the server
   npm run start
 
 Authors
-• @Arshit Singh
+• @Arshit dhiman
 
 Tech Stack
 • React.js (React Router)
