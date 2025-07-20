@@ -12,7 +12,7 @@ Install dependencies
 Start the server
   npm run start
 
-Authors
+Author
 • @Arshit dhiman
 
 Tech Stack
