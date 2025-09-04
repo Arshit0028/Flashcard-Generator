@@ -1,29 +1,55 @@
 🃏 Flashcard App
 
-A modern React-based Flashcard App that lets you create, view, share, and delete flashcards with a clean and intuitive UI.
-Flashcards are stored locally, so you never lose your progress. Easily share sets with friends via WhatsApp or any social platform.
+A modern and interactive Flashcard App built with React.
+It allows users to create, view, share, and delete flashcards effortlessly.
+Designed with a sleek UI, this app makes learning and revision fun.
+Easily share flashcards via WhatsApp and other platforms.
 
 🚀 Features
 
-➕ Create custom flashcards with title & description
+➕ Create Flashcards with custom content
 
-📂 Manage all your cards in My Flashcards tab
+📂 Manage Flashcards in "My Flashcards" tab
 
-📤 Share cards instantly via WhatsApp & other apps
+👀 View flashcards in detail
 
-🗑️ Delete flashcards with a single click
+📤 Share cards directly with friends
 
-💾 Data persistence with localStorage
+🗑️ Delete unwanted flashcards anytime
+
+🎨 Responsive Tailwind CSS UI for smooth experience
 
 📸 Screenshots
 ✨ Create Cards Page
-<img src="/Createcards.png" alt="Create Cards Page" width="700"/>
+<img src="./public/Createcards.png" alt="Create Cards Screenshot" width="600" />
 📂 My Cards Page
-<img src="/Mycards.png" alt="My Cards Page" width="700"/>
+<img src="./public/Mycards.png" alt="My Cards Screenshot" width="600" />
 🛠️ Tech Stack
 
-⚛️ React + Redux Toolkit
+⚛️ React – Frontend framework
 
-🎨 Tailwind CSS
+🎨 Tailwind CSS – Styling and UI
 
-🔄 LocalStorage for persistence
+🌐 Vite – Development and build tool
+
+📖 About
+
+This project is a personal learning app to practice React + Tailwind CSS while creating something useful for quick learning and revision.
+Flashcards can be created, managed, shared, and deleted in a clean, intuitive interface.
+
+🌟 Future Enhancements
+
+🔑 User authentication & profiles
+
+☁️ Cloud storage for flashcards
+
+📱 PWA support for offline use
+
+🤝 Contributing
+
+Contributions are welcome!
+Feel free to fork this repo, create a branch, and submit a pull request.
+
+📜 License
+
+This project is licensed under the MIT License – you are free to use, modify, and share.
