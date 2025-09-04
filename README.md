@@ -21,7 +21,7 @@ Easily share flashcards via WhatsApp and other platforms.
 
 📸 Screenshots
 ✨ Create Cards Page
-<img src="./public/Createcards.png" alt="Create Cards Screenshot" width="600" />
+<img src="./public/home.png" alt="Create Cards Screenshot" width="600" />
 📂 My Cards Page
 <img src="./public/Mycards.png" alt="My Cards Screenshot" width="600" />
 🛠️ Tech Stack
