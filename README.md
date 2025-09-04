@@ -17,9 +17,9 @@ Flashcards are stored locally, so you never lose your progress. Easily share set
 
 📸 Screenshots
 ✨ Create Cards Page
-<img src="./public/Createcards.png" alt="Create Cards Page" width="700"/>
+<img src="/Createcards.png" alt="Create Cards Page" width="700"/>
 📂 My Cards Page
-<img src="./public/Mycards.png" alt="My Cards Page" width="700"/>
+<img src="/Mycards.png" alt="My Cards Page" width="700"/>
 🛠️ Tech Stack
 
 ⚛️ React + Redux Toolkit
